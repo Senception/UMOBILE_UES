@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">UMOBILE_UES</string>
+    <string name="native_app">Native Application</string>
+    <string name="services">SERVICES</string>
+    <string name="oi">Oi!</string>
+    <string name="nowat">Now@</string>
+    <string name="pml">PML</string>
+    <string name="route">Route Planner</string>
+    <string name="context">Contextualization</string>
+    <string name="direct">Direct Communication</string>
+    <string name="sharing">KEBAB</string>
+    <string name="mainback">Press the back button once again to close the application.</string>
+
+
+</resources>
